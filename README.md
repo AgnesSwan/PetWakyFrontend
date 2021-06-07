@@ -67,7 +67,7 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 ![image](https://user-images.githubusercontent.com/48963185/121070809-76c96580-c7cf-11eb-9b4a-0283208214ba.png)
 
 ### Case #5 Adding the ad
-![image](https://user-images.githubusercontent.com/48963185/119270428-f31f4e80-bbfc-11eb-8f47-4840a8684399.png)
+![image](https://user-images.githubusercontent.com/48963185/121071883-cfe5c900-c7d0-11eb-87cb-1ac1f3663907.png)
 
 ### Case #6 Viewing the list of ads
 ![image](https://user-images.githubusercontent.com/48963185/121069419-bdb65b80-c7cd-11eb-95e3-eb26cd40007b.png)
