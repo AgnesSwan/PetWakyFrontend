@@ -50,36 +50,33 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 ## Use Case Diagram
 
-![image](https://user-images.githubusercontent.com/48963185/119270518-4abdba00-bbfd-11eb-8c1d-5f0213f8f4fb.png)
-
+![image](https://user-images.githubusercontent.com/48963185/121069025-4a144e80-c7cd-11eb-8099-ff1ca4de6916.png)
 
 ## Activity Diagram
 
-### Case #1 - ogólny
-![image](https://user-images.githubusercontent.com/48963185/119256779-a28aff80-bbc2-11eb-97a6-b3570d47e101.png)
+### Case #1 - general
+![image](https://user-images.githubusercontent.com/48963185/121070178-adeb4700-c7ce-11eb-815d-13f22fc8eac0.png)
 
-### Case #2 Szukanie miejsc przyjaznych zwierzętom
-![image](https://user-images.githubusercontent.com/48963185/119269376-b00eac80-bbf7-11eb-80f8-f6fad2a11627.png)
+### Case #2 Searching pet-friendly places
+![image](https://user-images.githubusercontent.com/48963185/121069569-e9d1dc80-c7cd-11eb-8bf2-e5ba6ede701d.png)
 
-### Case #3 Logowanie
-![image](https://user-images.githubusercontent.com/48963185/119269889-40e68780-bbfa-11eb-9fbe-dad7d051de8c.png)
+### Case #3 Log in
+![image](https://user-images.githubusercontent.com/48963185/121071057-c314a580-c7cf-11eb-83e5-03b71096f889.png)
 
-### Case #4 Rejestracja
-![image](https://user-images.githubusercontent.com/48963185/119270875-337fcc00-bbff-11eb-8cd1-5b92df87b732.png)
+### Case #4 Register
+![image](https://user-images.githubusercontent.com/48963185/121070809-76c96580-c7cf-11eb-9b4a-0283208214ba.png)
 
-### Case #5 Dodanie ogłoszenia
+### Case #5 Adding the ad
 ![image](https://user-images.githubusercontent.com/48963185/119270428-f31f4e80-bbfc-11eb-8f47-4840a8684399.png)
 
-### Case #6 Przeglądanie listy ogłoszeń
-![image](https://user-images.githubusercontent.com/48963185/119270978-b2750480-bbff-11eb-9205-9fbd731aed75.png)
+### Case #6 Viewing the list of ads
+![image](https://user-images.githubusercontent.com/48963185/121069419-bdb65b80-c7cd-11eb-95e3-eb26cd40007b.png)
 
 ## Component diagram
-![image](https://user-images.githubusercontent.com/48963185/119469664-dd6a7000-bd47-11eb-98f6-437e6f345fa7.png)
-
+![image](https://user-images.githubusercontent.com/48963185/121071143-dfb0dd80-c7cf-11eb-9fc4-b99948317992.png)
 
 ## Deployment diagram
-![image](https://user-images.githubusercontent.com/48963185/119271978-36c98680-bc04-11eb-91b8-b879d88cb7d3.png)
-
+![image](https://user-images.githubusercontent.com/48963185/121068252-55b34580-c7cc-11eb-8b2e-ec08ce27f8b5.png)
 
 ### SCREENSHOTS
 
