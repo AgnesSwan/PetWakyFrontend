@@ -40,11 +40,11 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 | ID | Short name | Description | Priority |
 | --- | --- | --- | --- |
-| 1	| Logo | Logo powinno być umieszczone w lewym górnym rogu	| 2 |
-| 2	| Kolorystyka	| Kolorystyka aplikacji powinna się ograniczać do kolorów białego i fioletowego	| 3 |
-| 3	| Dostępność	| Aplikacja powinna być dostępna na wszystkich przeglądarkach nie starszych wersji niż np.Chrome 68	| 2 |
-| 4	| Responsywny design	| Aplikacja powinna dostosowywać się automatycznie do wielkości ekrany na którym jest wyświetlana |	2 |
-| 5	| Dostępność	| Aplikacja powinna być dostępna 24h/7/365 przez średnio 99,9% czasu |	1 |
+| 1	| Logo | Logo shoud be placed in the top left-hand corner | 2 |
+| 2	| Colorway	| The colours of the application should be limited to white and violet	| 3 |
+| 3	| Availability	| The application should be available on all browsers not older than e. g. Chrome 68	| 2 |
+| 4	| Responsive design	| The application should automatically adjust to the size of the screen on which it is displayed |	2 |
+| 5	| Availability	| The application should be available 24/7/365 for an average of 99. 9% of the time |	1 |
 
 
 
@@ -108,4 +108,5 @@ Recorder tests were manual tests conducted in local enviroment.
 | T006	| Users can login |	Veryfing if already registered users can correctly login to their accounts | 2 |	Loging in with already created credentials through login tab |	User can succesfully login on its accout with credentioals |	passed |
 
 
-Licencja zamknięta, wszelkie prawa zastrzezone
+Closed source licence, all rights reserved
+
